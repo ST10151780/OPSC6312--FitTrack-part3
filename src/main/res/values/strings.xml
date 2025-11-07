@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FitTrack</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>IsiXhosa</item>
+    </string-array>
+    <string name="default_web_client_id">274467838203-44u4hf2f1oeni1slf6os9v6dju3tvduf.apps.googleusercontent.com</string>
+</resources>

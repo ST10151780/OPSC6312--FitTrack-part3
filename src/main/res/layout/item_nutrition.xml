@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:padding="16dp"
+    android:layout_marginBottom="10dp"
+    android:elevation="4dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!-- Meal title -->
+    <TextView
+        android:id="@+id/tvMealName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Meal Name"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#2196F3" />
+
+    <!-- Hidden details -->
+    <LinearLayout
+        android:id="@+id/layoutDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="8dp">
+
+        <TextView android:id="@+id/tvCalories" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Calories: 0"/>
+        <TextView android:id="@+id/tvProtein" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Protein: 0g"/>
+        <TextView android:id="@+id/tvCarbs" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Carbs: 0g"/>
+        <TextView android:id="@+id/tvFats" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Fats: 0g"/>
+        <TextView android:id="@+id/tvDate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Date: --/--/----"/>
+    </LinearLayout>
+</LinearLayout>

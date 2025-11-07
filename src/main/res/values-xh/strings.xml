@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Igama leApp -->
+    <string name="app_name">FitTrack</string>
+
+    <!-- Iilwimi -->
+    <string-array name="languages">
+        <item>IsiNgesi</item>
+        <item>IsiXhosa</item>
+    </string-array>
+
+    <!-- Firebase Web Client ID -->
+    <string name="default_web_client_id">274467838203-44u4hf2f1oeni1slf6os9v6dju3tvduf.apps.googleusercontent.com</string>
+
+    <!-- Jikelele -->
+    <string name="welcome_message">Wamkelekile kwi FitTrack</string>
+    <string name="app_description">Landelela iinjongo zakho zomzimba, uqeqesho, kunye nenkqubela yakho lula.</string>
+    <string name="loading">Ilayisha...</string>
+    <string name="save">Gcina</string>
+    <string name="cancel">Rhoxisa</string>
+    <string name="delete">Cima</string>
+    <string name="edit">Hlela</string>
+    <string name="back">Emva</string>
+    <string name="next">Okulandelayo</string>
+
+    <!-- Ukungena & Ukubhalisa -->
+    <string name="login">Ngena</string>
+    <string name="signup">Bhalisa</string>
+    <string name="logout">Phuma</string>
+    <string name="username">Igama lomsebenzisi</string>
+    <string name="password">Inombolo yokugqitha</string>
+    <string name="email">Imeyile</string>
+    <string name="confirm_password">Qinisekisa iphasiwedi</string>
+    <string name="forgot_password">Ulibele iphasiwedi?</string>
+    <string name="no_account">Awunayo iakhawunti?</string>
+    <string name="already_have_account">Sele unayo iakhawunti?</string>
+    <string name="welcome_back">Wamkelekile kwakhona!</string>
+    <string name="login_success">Ungene ngempumelelo</string>
+    <string name="login_failed">Ukungena akuphumelelanga. Jonga iinkcukacha zakho.</string>
+    <string name="signup_success">Iakhawunti yakho yenziwe ngempumelelo!</string>
+    <string name="signup_failed">Ukubhalisa akuphumelelanga. Zama kwakhona.</string>
+
+    <!-- I-Dashboard -->
+    <string name="dashboard">Ideshibhodi</string>
+    <string name="hello_user">Molo, %1$s!</string>
+    <string name="view_progress">Jonga Inkqubela</string>
+    <string name="view_workouts">Jonga Uqeqesho</string>
+    <string name="view_goals">Jonga Iinjongo</string>
+    <string name="total_steps">Amanyathelo ewonke</string>
+    <string name="total_calories">Iikhalori zitshisiwe</string>
+    <string name="weekly_summary">Isishwankathelo Seveki</string>
+
+    <!-- Uqeqesho -->
+    <string name="add_workout">Yongeza Uqeqesho</string>
+    <string name="workout_name">Igama loQeqesho</string>
+    <string name="workout_duration">Ixesha (imizuzu)</string>
+    <string name="workout_date">Umhla woQeqesho</string>
+    <string name="no_workouts">Akukho ziqeqesho zigciniweyo okwangoku.</string>
+
+    <!-- Iinjongo -->
+    <string name="set_goal">Misela Injongo</string>
+    <string name="goal_name">Igama leNjongo</string>
+    <string name="goal_target">Injongo</string>
+    <string name="goal_progress">Inkqubela</string>
+    <string name="goal_completed">Injongo igqityiwe!</string>
+    <string name="goal_not_completed">Injongo ayikagqitywa</string>
+
+    <!-- Izaziso -->
+    <string name="notification_channel_name">Izaziso ze FitTrack</string>
+    <string name="notification_channel_description">Izaziso ze-app ye FitTrack</string>
+    <string name="new_notification">Isaziso esitsha</string>
+
+    <!-- Iisetingi -->
+    <string name="settings">Iisetingi</string>
+    <string name="settings_language">Ulwimi</string>
+    <string name="settings_notifications">Izaziso</string>
+    <string name="settings_privacy">Umgaqo-nkqubo wabucala</string>
+    <string name="settings_account">Iisetingi zeAkhawunti</string>
+    <string name="settings_theme">Umxholo</string>
+    <string name="settings_dark_mode">Imo emnyama</string>
+    <string name="settings_light_mode">Imo ekhanyayo</string>
+    <string name="settings_saved">Iisetingi zigciniwe ngempumelelo</string>
+
+    <!-- Iimpazamo & Ukuqinisekisa -->
+    <string name="error_empty_fields">Nceda ugcwalise onke amasimi.</string>
+    <string name="error_invalid_email">Ifomathi yemeyile ayisebenzi.</string>
+    <string name="error_password_mismatch">Iiphasiwedi azihambelani.</string>
+    <string name="error_network">Impazamo yenethiwekhi. Zama kwakhona.</string>
+
+    <!-- Okunye -->
+    <string name="yes">Ewe</string>
+    <string name="no">Hayi</string>
+    <string name="ok">Kulungile</string>
+    <string name="exit_confirmation">Uqinisekile ufuna ukuphuma?</string>
+</resources>
